@@ -1,0 +1,1 @@
+# sql-global-layoffs-2020-2022
