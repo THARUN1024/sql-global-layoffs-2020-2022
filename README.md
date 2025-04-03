@@ -86,4 +86,4 @@ However, this data is often messy. It can have duplicates, missing values, incon
 ## Technologies Used
 
 - **SQL**: Structured Query Language used for data manipulation and analysis.
-- **MySQL**: The relational database management system used for storing and managing the data.
+- **PostgreSQL**: The relational database management system used for storing and managing the data.
